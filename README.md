@@ -1,5 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
-
+![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
 <h1 align="center">Hi 👋, I'm Sakar Khadka</h1>
 <h3 align="center">A passionate Game & Web developer from Nepal</h3>
 <img align="right" alt="coding" width=400  src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif">
