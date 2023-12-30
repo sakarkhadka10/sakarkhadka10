@@ -1,12 +1,12 @@
 ![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sakarkhadka10.sakarkhadka10" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sakarkhadka10&label=Profile%20views&color=0e75b6&style=flat" alt="sakarkhadka10" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sakar+Khadka!;" />
 </h1>
 <h3 align="center">A passionate Game & Web developer from Nepal</h3>
 <img align="right" alt="coding" width=400  src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakarkhadka10&label=Profile%20views&color=0e75b6&style=flat" alt="sakarkhadka10" /> </p>
+
 
 - 🔭 I’m currently working on [AlienX Studio](https://alienxstudion.com)
 
