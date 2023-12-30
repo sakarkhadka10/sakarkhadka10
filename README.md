@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on [AlienX Studio](https://alienxstudion.com)
+- 🔭 I’m currently working on [AlienX Studio](https://alienxstudio.com (target="blank"))
 
 - 🌱 I’m currently learning **MERN Stack**
 
