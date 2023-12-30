@@ -1,4 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sakarkhadka10.sakarkhadka10" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sakar+Khadka!;" />
 </h1>
