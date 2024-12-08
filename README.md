@@ -9,8 +9,8 @@
 <hr>
 
 <div>
-  <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif">
-  <img align="right" src="https://api.daily.dev/devcards/v2/VydkmMSaZiNbHvbmL6sVL.png?type=default&r=gyd" alt="Sakar Khadka's Dev Card" width="356">
+  <img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif">
+  <img align="right" src="https://api.daily.dev/devcards/v2/VydkmMSaZiNbHvbmL6sVL.png?type=default&r=gyd" alt="Sakar Khadka's Dev Card" width="156">
 </div>
 
 - 🔭 I’m currently working on [AlienX Studio](https://alienxstudio.com)
