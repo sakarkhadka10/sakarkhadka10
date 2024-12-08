@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Game & Web developer from Nepal</h3>
 <hr>
 <img align="right" alt="coding" width=400 src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif">
-
+<a href="https://app.daily.dev/sakarkhadka"><img src="https://api.daily.dev/devcards/v2/VydkmMSaZiNbHvbmL6sVL.png?type=default&r=gyd" width="356" alt="Sakar Khadka's Dev Card"/></a>
 
 
 - 🔭 I’m currently working on [AlienX Studio](https://alienxstudio.com (target="blank"))
