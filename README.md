@@ -13,7 +13,6 @@
   <img align="right" src="https://api.daily.dev/devcards/v2/VydkmMSaZiNbHvbmL6sVL.png?type=default&r=gyd" alt="Sakar Khadka's Dev Card" width="156">
 </div>
 
-- 🔭 I’m currently working on [AlienX Studio](https://alienxstudio.com)
 
 - 🌱 I’m currently learning **MERN Stack**
 
