@@ -14,7 +14,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React Native **
 
 - 👨‍💻 All of my projects are available at [https://sakarkhadka.com.np](https://sakarkhadka.com.np)
 
