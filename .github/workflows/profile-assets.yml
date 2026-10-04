@@ -1,0 +1,48 @@
+name: Profile assets
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-assets.yml
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contribution snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: sakarkhadka10
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=7c3aed
+
+      - name: Copy snake into assets
+        run: |
+          mkdir -p assets
+          cp dist/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.svg
+
+      - name: Refresh GitHub-safe activity graph SVG
+        run: |
+          curl -sL "https://jeskei-readme-activity-graph.vercel.app/graph?username=sakarkhadka10&bg_color=0d1117&line=7C3AED&point=A78BFA&area=true&hide_border=true&hide_title=true&color=C9D1D9&text_color=8B949E" -o /tmp/activity.svg
+          python3 <<'PY'
+          import re
+          svg = open("/tmp/activity.svg", encoding="utf-8").read()
+          svg = re.sub(r"<foreignObject[\s\S]*?</foreignObject>", "", svg)
+          open("assets/activity-graph.svg", "w", encoding="utf-8").write(svg)
+          PY
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: refresh profile graph assets"
+          add: "assets/github-contribution-grid-snake.svg assets/activity-graph.svg"
+          default_author: github_actions

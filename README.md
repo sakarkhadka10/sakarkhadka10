@@ -158,108 +158,37 @@ GitHub Actions
 
 # 🚀 WHAT I'M BUILDING
 
-<div align="center">
+### 💸 Munal Online
+**Digital finance · remittance · wallets · digital services**
 
-## 💸 MUNAL ONLINE
-
-### Digital Finance · Remittance · Wallets · Digital Services
-
-</div>
-
-<table>
-<tr>
-<td width="55%">
-
-**Munal Online** is one of my major product projects, focused on digital financial services and remittance.
-
-The interesting engineering problems aren't just the screens.
-
-They're things like:
+Major product work in digital financial services and remittance — the hard parts are systems, not just screens.
 
 ```text
-User
- ↓
-Authentication
- ↓
-Wallet
- ↓
-Transaction
- ↓
-Ledger
- ↓
-Payment Provider
- ↓
-Webhook
- ↓
-Verification
- ↓
-Reconciliation
+User → Authentication → Wallet → Transaction → Ledger
+     → Payment Provider → Webhook → Verification → Reconciliation
 ```
 
-That means thinking about:
-
-- 🔐 Authentication
-- 💰 Wallet architecture
-- 🔄 Transactions
-- 🧾 Auditability
-- 🪝 Webhooks
-- 🛡️ Idempotency
-- 📊 Reporting
-- 🗄️ Database integrity
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://dummyimage.com/700x450/111111/ffffff&text=MUNAL+ONLINE" width="100%"/>
-
-<br><br>
+Authentication · wallet architecture · transactions · auditability · webhooks · idempotency · reporting · database integrity
 
 <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,ts" />
 
-</td>
-</tr>
-</table>
+<br/>
 
----
+### 🧰 Merokarya
+**SaaS · productivity · digital tools**
 
-<div align="center">
-
-## 🧰 MEROKARYA
-
-### SaaS · Productivity · Digital Tools
-
-<img src="https://dummyimage.com/1000x420/111111/a78bfa&text=MEROKARYA+%7C+BUILDING+THE+WEB%27S+USEFUL+TOOLS" width="90%"/>
-
-<br><br>
-
-**A product ecosystem for useful web tools and productivity software.**
+Product ecosystem for useful web tools and productivity software.
 
 `Next.js` · `NestJS` · `PostgreSQL` · `TypeScript`
 
-<br>
+<a href="https://merokarya.com"><img src="https://img.shields.io/badge/Explore%20Merokarya-7C3AED?style=for-the-badge"/></a>
 
-<a href="https://merokarya.com">
-<img src="https://img.shields.io/badge/EXPLORE%20MEROKARYA-7C3AED?style=for-the-badge"/>
-</a>
+<br/>
 
-</div>
+### 🌐 Xenonepal
+**Digital products · gaming · subscriptions**
 
----
-
-<div align="center">
-
-## 🌐 XENONEPAL
-
-### Digital Products · Gaming · Subscriptions
-
-<img src="https://dummyimage.com/1000x420/111111/ffffff&text=XENONEPAL" width="90%"/>
-
-<br><br>
-
-A Nepal-focused digital marketplace for digital products and services.
-
-</div>
+Nepal-focused digital marketplace for digital products and services.
 
 ---
 
@@ -367,16 +296,16 @@ npm install @karyax/icons
 
 <div align="center">
 
-| 🧠 | Principle | What it means |
-|---|---|---|
-| 🔒 | **Security First** | Authentication, authorization & validation are part of the architecture |
-| 🧱 | **Strong Foundations** | Good schemas beat clever queries |
-| 🧩 | **Modularity** | Systems should evolve without becoming spaghetti |
-| 📈 | **Scalability** | Design for the next version, not imaginary millions |
-| 👀 | **Observability** | If something breaks, I want to know why |
-| 🧪 | **Testing** | Confidence before deployment |
-| 🎯 | **DX Matters** | Developers are users too |
-| 🎨 | **UX Matters** | A technically perfect product can still be terrible |
+| 🧠  | Principle              | What it means                                                           |
+| --- | ---------------------- | ----------------------------------------------------------------------- |
+| 🔒  | **Security First**     | Authentication, authorization & validation are part of the architecture |
+| 🧱  | **Strong Foundations** | Good schemas beat clever queries                                        |
+| 🧩  | **Modularity**         | Systems should evolve without becoming spaghetti                        |
+| 📈  | **Scalability**        | Design for the next version, not imaginary millions                     |
+| 👀  | **Observability**      | If something breaks, I want to know why                                 |
+| 🧪  | **Testing**            | Confidence before deployment                                            |
+| 🎯  | **DX Matters**         | Developers are users too                                                |
+| 🎨  | **UX Matters**         | A technically perfect product can still be terrible                     |
 
 </div>
 
@@ -494,7 +423,9 @@ Other topics include:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sakarkhadka10/sakarkhadka10/output/github-contribution-grid-snake.svg" width="95%"/>
+<a href="https://github.com/sakarkhadka10">
+  <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
+</a>
 
 </div>
 
@@ -504,7 +435,9 @@ Other topics include:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakarkhadka10&bg_color=00000000&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+<a href="https://github.com/sakarkhadka10">
+  <img src="./assets/activity-graph.svg" alt="GitHub commit activity — last 31 days" width="100%"/>
+</a>
 
 </div>
 
