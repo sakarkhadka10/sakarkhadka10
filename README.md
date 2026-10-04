@@ -1,150 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SAKAR%20KHADKA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%7C%20BUILDER%20%7C%20OPEN-SOURCE&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:111111,70:4c1d95,100:7c3aed&height=260&section=header&text=SAKAR%20KHADKA&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%20•%20%20PRODUCT%20BUILDER%20%20•%20%20OPEN%20SOURCE&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Building+products+that+actually+solve+problems.;Full-Stack+%7C+Next.js+%7C+NestJS+%7C+PostgreSQL;Turning+ideas+into+production-ready+software.;Open+Source+%7C+SaaS+%7C+Fintech+%7C+Developer+Tools;Currently+building%2C+breaking%2C+learning+%26+shipping." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=70&lines=I+turn+ideas+into+production+software.;Full-Stack+%7C+TypeScript+%7C+Next.js+%7C+NestJS;Building+SaaS%2C+Fintech+%26+Developer+Tools.;Designing+systems+that+scale+with+the+product.;Code.+Ship.+Learn.+Repeat.+%F0%9F%9A%80" />
 
-<br/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nestjs,nodejs,postgres,docker,git&perline=8" />
+
+<br><br>
 
 <a href="https://www.sakarkhadka.com.np">
-<img src="https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/sacarkhadka">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:khadka.sakar10@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/sakarkhadka10">
-<img src="https://img.shields.io/github/followers/sakarkhadka10?style=for-the-badge&logo=github&label=Follow"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sakarkhadka10&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sakarkhadka10&label=PROFILE%20VIEWS&style=for-the-badge&color=7c3aed"/>
 
 </div>
 
 ---
 
-# 👋 Hey, I'm Sakar.
+<div align="center">
 
-**Full-Stack Developer from Nepal 🇳🇵**
+# ⚡ I BUILD SOFTWARE, NOT JUST CODE.
 
-I build **real products, developer tools, SaaS platforms, and scalable backend systems**.
+### Full-Stack Developer · Product Engineer · Open-Source Builder
 
-I enjoy taking something from:
+</div>
 
-`💡 Idea → 🎨 Interface → 🧠 Architecture → ⚙️ Backend → 🗄️ Database → 🚀 Production`
-
-My sweet spot is the intersection of **clean frontend experiences + serious backend engineering**.
-
-```ts
-const sakar = {
-  role: "Full-Stack Developer",
-
-  location: "Nepal 🇳🇵",
-
-  currentlyBuilding: [
-    "Munal Online",
-    "MeroKarya",
-    "Developer Tools",
-    "Open Source"
-  ],
-
-  strongestAt: [
-    "TypeScript",
-    "Next.js",
-    "NestJS",
-    "PostgreSQL",
-    "React"
-  ],
-
-  interestedIn: [
-    "System Design",
-    "Fintech",
-    "SaaS",
-    "Developer Experience",
-    "Open Source"
-  ],
-
-  philosophy:
-    "Don't just write code. Build systems people can depend on."
-};
-```
-
----
-
-# 🧠 What I Actually Do
+<br>
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### 🎨 Frontend Engineering
+## 👨‍💻 About Me
 
-Building interfaces that are:
+I'm **Sakar Khadka**, a full-stack developer from **Nepal 🇳🇵** focused on building products from the ground up.
 
-- Fast
-- Responsive
-- Accessible
-- Animated
-- Maintainable
-- Actually enjoyable to use
+I enjoy working across the entire stack — from pixel-level interfaces to database architecture, authentication, APIs, infrastructure and deployment.
 
-**React · Next.js · TypeScript · Tailwind CSS · Shadcn UI**
+I don't just ask:
 
-</td>
+> **"How do I implement this?"**
 
-<td width="50%">
+I ask:
 
-### ⚙️ Backend Engineering
+> **"How should this system work?"**
 
-Building APIs and services that are:
+My current interests revolve around:
 
-- Secure
-- Typed
-- Scalable
-- Observable
-- Well structured
-- Database-friendly
-
-**NestJS · Node.js · PostgreSQL · REST · Webhooks**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗄️ Data & Architecture
-
-I care about what happens **behind the UI**.
-
-- Database design
-- Transactions
-- Authentication
-- Authorization
-- API architecture
-- Validation
-- Migrations
-- Performance
-
-**PostgreSQL · Drizzle · Prisma · MongoDB**
+- 🧠 System Design
+- 💳 Fintech & Financial Systems
+- 🚀 SaaS Products
+- 🧰 Developer Tools
+- 🌐 Full-Stack Architecture
+- 📦 Open Source
+- 🎨 Product & UX Engineering
 
 </td>
 
-<td width="50%">
+<td width="40%" align="center">
 
-### 🚀 Product Engineering
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-I like building complete products rather than isolated demos.
+<br><br>
 
-**SaaS · Fintech · Digital Services · Developer Tools · E-commerce · Open Source**
+### CURRENTLY
 
-From the first database table to the production deployment.
+```text
+🟢 Building
+🟣 Learning
+🔵 Shipping
+🟠 Breaking
+⚪ Fixing
+```
 
 </td>
 </tr>
@@ -152,285 +92,483 @@ From the first database table to the production deployment.
 
 ---
 
-# 🚀 Things I'm Building
+# 🧬 MY ENGINEERING DNA
 
-## 💸 Munal Online
+<div align="center">
 
-**Digital Finance · Remittance · Wallets · Payments**
+<table>
+<tr>
+<td align="center" width="25%">
 
-A modern digital financial platform built around secure remittance, digital wallets, bill payments, mobile top-ups and payment services.
+### 🎨
 
-**Stack**
+**FRONTEND**
 
-`Next.js` `NestJS` `TypeScript` `PostgreSQL` `Tailwind CSS`
+React  
+Next.js  
+TypeScript  
+Tailwind
 
-> The interesting part isn't the UI.  
-> It's making money movement **correct, auditable and reliable**.
+</td>
 
-<a href="https://www.munalonline.com">
-<img src="https://img.shields.io/badge/→%20Visit%20Munal-111827?style=for-the-badge"/>
-</a>
+<td align="center" width="25%">
+
+### ⚙️
+
+**BACKEND**
+
+NestJS  
+Node.js  
+REST APIs  
+Webhooks
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**DATA**
+
+PostgreSQL  
+Drizzle  
+Prisma  
+MongoDB
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**INFRA**
+
+Docker  
+Vercel  
+Cloudflare  
+GitHub Actions
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🧰 MeroKarya
+# 🚀 WHAT I'M BUILDING
 
-**SaaS · Productivity · Developer Tools**
+<div align="center">
 
-An all-in-one web platform for useful online tools including QR generation, document transformation, watermarking and more.
+## 💸 MUNAL ONLINE
 
-**Stack**
+### Digital Finance · Remittance · Wallets · Digital Services
 
-`Next.js` `NestJS` `PostgreSQL` `Tailwind CSS`
+</div>
 
-<a href="https://www.merokarya.com">
-<img src="https://img.shields.io/badge/→%20Explore%20MeroKarya-111827?style=for-the-badge"/>
-</a>
+<table>
+<tr>
+<td width="55%">
 
----
+**Munal Online** is one of my major product projects, focused on digital financial services and remittance.
 
-## 🌐 XenoNepal
+The interesting engineering problems aren't just the screens.
 
-**Digital Services · Gaming · Subscriptions**
-
-A Nepal-focused digital services platform for gaming top-ups, digital subscriptions and gift cards.
-
-**Stack**
-
-`React` `Node.js` `Firebase` `MongoDB` `Tailwind CSS`
-
-<a href="https://xenonepal.com">
-<img src="https://img.shields.io/badge/→%20Visit%20XenoNepal-111827?style=for-the-badge"/>
-</a>
-
----
-
-# 📦 Open Source
-
-I don't only build applications.
-
-I also build **tools for other developers**.
-
-### 🇳🇵 mero-nepali-utils
-
-A production-ready Nepali utility library for **BS ↔ AD date conversion, formatting and localization**.
+They're things like:
 
 ```text
+User
+ ↓
+Authentication
+ ↓
+Wallet
+ ↓
+Transaction
+ ↓
+Ledger
+ ↓
+Payment Provider
+ ↓
+Webhook
+ ↓
+Verification
+ ↓
+Reconciliation
+```
+
+That means thinking about:
+
+- 🔐 Authentication
+- 💰 Wallet architecture
+- 🔄 Transactions
+- 🧾 Auditability
+- 🪝 Webhooks
+- 🛡️ Idempotency
+- 📊 Reporting
+- 🗄️ Database integrity
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://dummyimage.com/700x450/111111/ffffff&text=MUNAL+ONLINE" width="100%"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,ts" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧰 MEROKARYA
+
+### SaaS · Productivity · Digital Tools
+
+<img src="https://dummyimage.com/1000x420/111111/a78bfa&text=MEROKARYA+%7C+BUILDING+THE+WEB%27S+USEFUL+TOOLS" width="90%"/>
+
+<br><br>
+
+**A product ecosystem for useful web tools and productivity software.**
+
+`Next.js` · `NestJS` · `PostgreSQL` · `TypeScript`
+
+<br>
+
+<a href="https://merokarya.com">
+<img src="https://img.shields.io/badge/EXPLORE%20MEROKARYA-7C3AED?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 XENONEPAL
+
+### Digital Products · Gaming · Subscriptions
+
+<img src="https://dummyimage.com/1000x420/111111/ffffff&text=XENONEPAL" width="90%"/>
+
+<br><br>
+
+A Nepal-focused digital marketplace for digital products and services.
+
+</div>
+
+---
+
+# 📦 I BUILD FOR DEVELOPERS TOO
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:312e81&height=120&text=OPEN%20SOURCE&fontSize=42&fontColor=ffffff&fontAlignY=55"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🇳🇵 mero-nepali-utils
+
+### Nepali Date & Utility Library
+
+A TypeScript utility library built around the **Bikram Sambat calendar** and Nepali development use cases.
+
+```bash
 npm install mero-nepali-utils
 ```
 
-<a href="https://www.npmjs.com/package/mero-nepali-utils">
-<img src="https://img.shields.io/npm/v/mero-nepali-utils?style=flat-square&logo=npm&logoColor=white"/>
-</a>
-<a href="https://www.npmjs.com/package/mero-nepali-utils">
-<img src="https://img.shields.io/npm/dm/mero-nepali-utils?style=flat-square&logo=npm"/>
-</a>
+<img src="https://img.shields.io/npm/v/mero-nepali-utils?style=for-the-badge&logo=npm"/>
 
----
+</td>
 
-### 🎨 @karyax/icons
+<td width="50%" valign="top">
 
-A lightweight TypeScript icon library designed for **React and Next.js** with a consistent developer experience.
+## 🎨 KaryaX Icons
+
+### Developer Icon Ecosystem
+
+Building a modern icon ecosystem designed around:
+
+- TypeScript
+- React
+- Tree-shaking
+- SVG optimization
+- Developer experience
 
 ```bash
 npm install @karyax/icons
 ```
 
-<a href="https://www.npmjs.com/package/@karyax/icons">
-<img src="https://img.shields.io/npm/v/@karyax/icons?style=flat-square&logo=npm&logoColor=white"/>
-</a>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧩 My Engineering Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,c,html,css" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-
-### Tools & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,cloudflare,vscode,figma" />
-
-</div>
-
----
-
-# 🏗️ How I Like To Build
+# 🧠 HOW I THINK ABOUT SYSTEMS
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                    PRODUCT                          │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│   Next.js / React / React Native                   │
-│                     ↓                               │
-│              TanStack Query                         │
-│                     ↓                               │
-│              REST / API Layer                       │
-│                     ↓                               │
-│             NestJS / Node.js                        │
-│                     ↓                               │
-│        Auth · Validation · Business Logic            │
-│                     ↓                               │
-│              PostgreSQL                              │
-│                     ↓                               │
-│       Drizzle / Prisma / Migrations                  │
-│                     ↓                               │
-│       Docker · CI/CD · Observability                 │
-│                     ↓                               │
-│                  🚀 Production                       │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-I care about **architecture before abstraction**.
-
-I would rather have a boring, understandable system that works than a clever system nobody wants to touch six months later.
-
----
-
-# 🔐 Things I Care About
-
-```diff
-+ Type Safety
-+ Secure Authentication
-+ Database Integrity
-+ API Design
-+ Error Handling
-+ Observability
-+ Performance
-+ Developer Experience
-+ Maintainable Architecture
-+ Good UX
-
-- Overengineering
-- Copy-paste architecture
-- "It works on my machine"
-- Shipping without understanding the system
+                     ┌──────────────────┐
+                     │      PRODUCT     │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │    EXPERIENCE    │
+                     │ React / Next.js  │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │       API        │
+                     │ NestJS / REST    │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                ┌─────────────┴─────────────┐
+                │                           │
+                ▼                           ▼
+        ┌──────────────┐           ┌────────────────┐
+        │ AUTH / RBAC  │           │ BUSINESS LOGIC │
+        └──────┬───────┘           └───────┬────────┘
+               │                           │
+               └─────────────┬─────────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │    DATABASE     │
+                    │   PostgreSQL    │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   OBSERVABILITY │
+                    │ Sentry / OTel   │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   PRODUCTION 🚀 │
+                    └─────────────────┘
 ```
 
 ---
 
-# ✍️ I Write About What I Build
+# 🔐 ENGINEERING PRINCIPLES
 
-I also write technical articles around the problems I'm actually interested in.
+<div align="center">
 
-### Recent topics
+| 🧠 | Principle | What it means |
+|---|---|---|
+| 🔒 | **Security First** | Authentication, authorization & validation are part of the architecture |
+| 🧱 | **Strong Foundations** | Good schemas beat clever queries |
+| 🧩 | **Modularity** | Systems should evolve without becoming spaghetti |
+| 📈 | **Scalability** | Design for the next version, not imaginary millions |
+| 👀 | **Observability** | If something breaks, I want to know why |
+| 🧪 | **Testing** | Confidence before deployment |
+| 🎯 | **DX Matters** | Developers are users too |
+| 🎨 | **UX Matters** | A technically perfect product can still be terrible |
 
-- **Drizzle ORM + NestJS + PostgreSQL — Production Setup**
-- **React Routing Architecture with Vite + TypeScript**
-- **REST vs SOAP vs gRPC vs GraphQL vs Webhooks vs WebSockets**
-- **NestJS Swagger & API Documentation**
-- **Next.js Rendering Strategies**
-- **Modern Full-Stack Development**
-- **AI Tools for Developers**
+</div>
+
+---
+
+# 🛠️ THE STACK
+
+<div align="center">
+
+### CORE
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs" />
+
+### DATA
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+
+### MOBILE
+
+<img src="https://skillicons.dev/icons?i=react" />
+
+**React Native · Expo**
+
+### CLOUD & DEVOPS
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,githubactions,linux" />
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
+
+---
+
+# 🏆 EXPERIENCE
+
+<div align="center">
+
+### FULL-STACK DEVELOPER
+
+**Press 1 Technologies**
+
+`React` · `Node.js` · `PostgreSQL` · `Tauri`
+
+<br>
+
+### FULL-STACK DEVELOPER INTERN
+
+**Mindrisers Consortium**
+
+`React` · `Node.js` · `APIs` · `Responsive UI`
+
+</div>
+
+---
+
+# 📚 I ALSO WRITE
+
+<div align="center">
+
+<img src="https://dummyimage.com/1000x260/0f0f0f/a78bfa&text=BUILDING+%E2%86%92+LEARNING+%E2%86%92+WRITING" width="90%"/>
+
+</div>
+
+<br>
+
+I write about things I actually encounter while building software.
+
+```text
+REST
+SOAP
+gRPC
+GraphQL
+Webhooks
+WebSockets
+        ↓
+"Which one should I actually use?"
+```
+
+Other topics include:
+
+- Next.js architecture
+- NestJS
+- PostgreSQL
+- Drizzle ORM
+- React
+- API architecture
+- Developer tooling
+- Modern full-stack development
 
 <a href="https://www.sakarkhadka.com.np/blogs">
-<img src="https://img.shields.io/badge/READ%20MY%20BLOG-7C3AED?style=for-the-badge&logo=readme&logoColor=white"/>
+<img src="https://img.shields.io/badge/READ%20THE%20BLOG-7C3AED?style=for-the-badge"/>
 </a>
 
 ---
 
-# 💼 Experience
-
-### Full-Stack Developer — Press 1 Technologies
-**2025 → Present**
-
-Building and maintaining full-stack applications using **React, Node.js, PostgreSQL and Tauri**, with a focus on secure, responsive and high-performance software.
-
-### Full-Stack Developer Intern — Mindrisers Consortium
-**2025**
-
-Worked on responsive interfaces, APIs, optimization and scalable application development.
-
----
-
-# 📊 GitHub — Under The Hood
+# 📊 GITHUB — THE RECEIPTS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakarkhadka10&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sakarkhadka10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" width="48%"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=sakarkhadka10&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=sakarkhadka10&hide_border=true&theme=transparent" width="48%"/>
 
-<br/>
+<br><br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakarkhadka10&layout=compact&hide_border=true&theme=transparent&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakarkhadka10&layout=donut-vertical&langs_count=8&hide_border=true&theme=transparent" width="32%"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🐍 THE CONTRIBUTION MACHINE
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sakarkhadka10&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://raw.githubusercontent.com/sakarkhadka10/sakarkhadka10/output/github-contribution-grid-snake.svg" width="95%"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# ⚡ ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakarkhadka10&bg_color=00000000&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakarkhadka10&bg_color=00000000&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 My Contributions
+# 🎯 CURRENTLY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sakarkhadka10/sakarkhadka10/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+```text
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  🔨 BUILDING     →     Real products                 │
+│                                                      │
+│  🧠 LEARNING     →     System design                 │
+│                                                      │
+│  📦 SHIPPING     →     Open source                   │
+│                                                      │
+│  💳 EXPLORING    →     Fintech                       │
+│                                                      │
+│  🎨 IMPROVING    →     Product & UX                  │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+```
 
 </div>
 
 ---
 
-# 🌎 Find Me Around The Internet
+# 🌎 LET'S CONNECT
 
 <div align="center">
+
+### Have a product idea? Building something interesting?
+
+### Let's talk.
+
+<br>
 
 <a href="https://www.sakarkhadka.com.np">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-sakarkhadka.com.np-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20WEBSITE-7C3AED?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sacarkhadka">
-<img src="https://img.shields.io/badge/LinkedIn-Sakar%20Khadka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="mailto:khadka.sakar10@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/✉️%20EMAIL-EA4335?style=for-the-badge"/>
 </a>
 
-<br/><br/>
-
-<a href="https://www.npmjs.com/~sakarkhadka">
-<img src="https://img.shields.io/badge/NPM-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</a>
+<br><br>
 
 <a href="https://github.com/sakarkhadka10">
-<img src="https://img.shields.io/badge/GitHub-@sakarkhadka10-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="https://www.npmjs.com/~sakarkhadka">
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sakarkhadka10&label=YOU%20ARE%20VISITOR%20%23&style=flat-square&color=7c3aed"/>
 
 </div>
 
@@ -438,15 +576,12 @@ Worked on responsive interfaces, APIs, optimization and scalable application dev
 
 <div align="center">
 
-### 💭 A little philosophy
+## ⚡ BUILD. SHIP. BREAK. LEARN. REPEAT.
 
-> **"Build things that are useful.  
-> Make them beautiful.  
-> Make them reliable.  
-> Then make them better."**
+### — Sakar Khadka 🇳🇵
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:050505&height=150&section=footer"/>
 
 </div>
