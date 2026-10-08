@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:111111,70:4c1d95,100:7c3aed&height=260&section=header&text=SAKAR%20KHADKA&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%20•%20%20PRODUCT%20BUILDER%20%20•%20%20OPEN%20SOURCE&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
@@ -51,13 +52,9 @@ I'm **Sakar Khadka**, a full-stack developer from **Nepal 🇳🇵** focused on 
 I enjoy working across the entire stack — from pixel-level interfaces to database architecture, authentication, APIs, infrastructure and deployment.
 
 I don't just ask:
-
 > **"How do I implement this?"**
-
 I ask:
-
 > **"How should this system work?"**
-
 My current interests revolve around:
 
 - 🧠 System Design
@@ -72,25 +69,9 @@ My current interests revolve around:
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl5cnFwcXg0bTRzcWN5N2MydHl4OHNobmJuZmZzaHFnbDdjMmQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" />
 
 <br><br>
-
-### CURRENTLY
-
-```text
-🟢 Building
-🟣 Learning
-🔵 Shipping
-🟠 Breaking
-⚪ Fixing
-```
-
-</td>
-</tr>
-</table>
-
----
 
 # 🧬 MY ENGINEERING DNA
 
@@ -160,90 +141,66 @@ GitHub Actions
 
 ### 💸 Munal Online
 **Digital finance · remittance · wallets · digital services**
-
 Major product work in digital financial services and remittance — the hard parts are systems, not just screens.
-
 ```text
 User → Authentication → Wallet → Transaction → Ledger
      → Payment Provider → Webhook → Verification → Reconciliation
 ```
-
 Authentication · wallet architecture · transactions · auditability · webhooks · idempotency · reporting · database integrity
 
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,ts" />
+<img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,nestjs,postgres,ts" />
 
 <br/>
 
 ### 🧰 Merokarya
 **SaaS · productivity · digital tools**
-
 Product ecosystem for useful web tools and productivity software.
-
 `Next.js` · `NestJS` · `PostgreSQL` · `TypeScript`
 
 <a href="https://merokarya.com"><img src="https://img.shields.io/badge/Explore%20Merokarya-7C3AED?style=for-the-badge"/></a>
 
-<br/>
 
 ### 🌐 Xenonepal
 **Digital products · gaming · subscriptions**
-
 Nepal-focused digital marketplace for digital products and services.
+
+<a href="https://xenonepal.com"><img src="https://img.shields.io/badge/Explore%20Merokarya-7C3AED?style=for-the-badge"/></a>
 
 ---
 
 # 📦 I BUILD FOR DEVELOPERS TOO
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:312e81&height=120&text=OPEN%20SOURCE&fontSize=42&fontColor=ffffff&fontAlignY=55"/>
-
 </div>
-
-<br>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ## 🇳🇵 mero-nepali-utils
-
 ### Nepali Date & Utility Library
-
 A TypeScript utility library built around the **Bikram Sambat calendar** and Nepali development use cases.
-
 ```bash
 npm install mero-nepali-utils
 ```
-
-<img src="https://img.shields.io/npm/v/mero-nepali-utils?style=for-the-badge&logo=npm"/>
-
+<a href="https://www.npmjs.com/package/mero-nepali-utils">
+<img src="https://img.shields.io/npm/v/mero-nepali-utils?style=for-the-badge&logo=npm"/></a>
 </td>
-
 <td width="50%" valign="top">
 
 ## 🎨 KaryaX Icons
-
 ### Developer Icon Ecosystem
-
 Building a modern icon ecosystem designed around:
-
-- TypeScript
-- React
-- Tree-shaking
-- SVG optimization
-- Developer experience
-
 ```bash
 npm install @karyax/icons
 ```
-
+<a href="https://www.npmjs.com/package/mero-nepali-utils">
+<img src="https://img.shields.io/npm/v/@karyax/icons?style=for-the-badge&logo=npm"/></a>
 </td>
 </tr>
 </table>
 
 ---
-
+<div align="center">
 # 🧠 HOW I THINK ABOUT SYSTEMS
 
 ```text
@@ -291,7 +248,7 @@ npm install @karyax/icons
 ```
 
 ---
-
+</div>
 # 🔐 ENGINEERING PRINCIPLES
 
 <div align="center">
@@ -312,19 +269,15 @@ npm install @karyax/icons
 ---
 
 # 🛠️ THE STACK
-
 <div align="center">
 
 ### CORE
-
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs" />
 
 ### DATA
-
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 
 ### MOBILE
-
 <img src="https://skillicons.dev/icons?i=react" />
 
 **React Native · Expo**
@@ -346,62 +299,15 @@ npm install @karyax/icons
 <div align="center">
 
 ### FULL-STACK DEVELOPER
-
 **Press 1 Technologies**
-
 `React` · `Node.js` · `PostgreSQL` · `Tauri`
 
-<br>
 
 ### FULL-STACK DEVELOPER INTERN
-
 **Mindrisers Consortium**
-
 `React` · `Node.js` · `APIs` · `Responsive UI`
-
 </div>
 
----
-
-# 📚 I ALSO WRITE
-
-<div align="center">
-
-<img src="https://dummyimage.com/1000x260/0f0f0f/a78bfa&text=BUILDING+%E2%86%92+LEARNING+%E2%86%92+WRITING" width="90%"/>
-
-</div>
-
-<br>
-
-I write about things I actually encounter while building software.
-
-```text
-REST
-SOAP
-gRPC
-GraphQL
-Webhooks
-WebSockets
-        ↓
-"Which one should I actually use?"
-```
-
-Other topics include:
-
-- Next.js architecture
-- NestJS
-- PostgreSQL
-- Drizzle ORM
-- React
-- API architecture
-- Developer tooling
-- Modern full-stack development
-
-<a href="https://www.sakarkhadka.com.np/blogs">
-<img src="https://img.shields.io/badge/READ%20THE%20BLOG-7C3AED?style=for-the-badge"/>
-</a>
-
----
 
 # 📊 GITHUB — THE RECEIPTS
 
@@ -414,18 +320,6 @@ Other topics include:
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakarkhadka10&layout=donut-vertical&langs_count=8&hide_border=true&theme=transparent" width="32%"/>
-
-</div>
-
----
-
-# 🐍 THE CONTRIBUTION MACHINE
-
-<div align="center">
-
-<a href="https://github.com/sakarkhadka10">
-  <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
-</a>
 
 </div>
 
@@ -462,21 +356,15 @@ Other topics include:
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
 ```
-
 </div>
 
 ---
-
 # 🌎 LET'S CONNECT
 
 <div align="center">
 
 ### Have a product idea? Building something interesting?
-
 ### Let's talk.
-
-<br>
-
 <a href="https://www.sakarkhadka.com.np">
 <img src="https://img.shields.io/badge/🌐%20WEBSITE-7C3AED?style=for-the-badge"/>
 </a>
@@ -489,8 +377,6 @@ Other topics include:
 <img src="https://img.shields.io/badge/✉️%20EMAIL-EA4335?style=for-the-badge"/>
 </a>
 
-<br><br>
-
 <a href="https://github.com/sakarkhadka10">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -499,22 +385,16 @@ Other topics include:
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=sakarkhadka10&label=YOU%20ARE%20VISITOR%20%23&style=flat-square&color=7c3aed"/>
-
 </div>
 
 ---
-
 <div align="center">
 
 ## ⚡ BUILD. SHIP. BREAK. LEARN. REPEAT.
-
 ### — Sakar Khadka 🇳🇵
 
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:050505&height=150&section=footer"/>
-
 </div>
