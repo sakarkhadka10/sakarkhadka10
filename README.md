@@ -69,7 +69,7 @@ My current interests revolve around:
 
 <td width="40%" align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl5cnFwcXg0bTRzcWN5N2MydHl4OHNobmJuZmZzaHFnbDdjMmQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="50%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl5cnFwcXg0bTRzcWN5N2MydHl4OHNobmJuZmZzaHFnbDdjMmQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" />
 </td>
 </tr>
 </table>
@@ -139,7 +139,10 @@ npm install @karyax/icons
 
 ---
 <div align="center">
+
 # 🧠 HOW I THINK ABOUT SYSTEMS
+
+<div align="center">
 
 ```text
                      ┌──────────────────┐
@@ -185,7 +188,9 @@ npm install @karyax/icons
                     └─────────────────┘
 ```
 
+
 ---
+</div>
 </div>
 # 🔐 ENGINEERING PRINCIPLES
 
