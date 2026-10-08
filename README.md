@@ -69,73 +69,9 @@ My current interests revolve around:
 
 <td width="40%" align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl5cnFwcXg0bTRzcWN5N2MydHl4OHNobmJuZmZzaHFnbDdjMmQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl5cnFwcXg0bTRzcWN5N2MydHl4OHNobmJuZmZzaHFnbDdjMmQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="50%" />
 
 <br><br>
-
-# 🧬 MY ENGINEERING DNA
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🎨
-
-**FRONTEND**
-
-React  
-Next.js  
-TypeScript  
-Tailwind
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**BACKEND**
-
-NestJS  
-Node.js  
-REST APIs  
-Webhooks
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-**DATA**
-
-PostgreSQL  
-Drizzle  
-Prisma  
-MongoDB
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**INFRA**
-
-Docker  
-Vercel  
-Cloudflare  
-GitHub Actions
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 # 🚀 WHAT I'M BUILDING
 
