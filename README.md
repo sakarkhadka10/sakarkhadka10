@@ -125,7 +125,7 @@ npm install mero-nepali-utils
 ### Developer Icon Ecosystem
 Building a modern icon ecosystem designed around:
 ```bash
-npm install @karyax/icons
+npm install @axcore/xicons-react
 ```
 <a href="https://www.npmjs.com/package/@axcore/xicons">
 <img src="https://img.shields.io/npm/v/@axcore/xicons?style=for-the-badge&logo=npm"/></a>
