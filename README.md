@@ -128,7 +128,7 @@ Building a modern icon ecosystem designed around:
 npm install @karyax/icons
 ```
 <a href="https://www.npmjs.com/package/@axcore/xicons">
-<img src="https://img.shields.io/npm/v/@axcore/xicons/icons?style=for-the-badge&logo=npm"/></a>
+<img src="https://img.shields.io/npm/v/@axcore/xicons?style=for-the-badge&logo=npm"/></a>
 </td>
 </tr>
 </table>
