@@ -51,10 +51,6 @@ I'm **Sakar Khadka**, a full-stack developer from **Nepal 🇳🇵** focused on 
 
 I enjoy working across the entire stack — from pixel-level interfaces to database architecture, authentication, APIs, infrastructure and deployment.
 
-I don't just ask:
-> **"How do I implement this?"**
-I ask:
-> **"How should this system work?"**
 My current interests revolve around:
 
 - 🧠 System Design
@@ -125,69 +121,17 @@ npm install mero-nepali-utils
 </td>
 <td width="50%" valign="top">
 
-## 🎨 KaryaX Icons
+## 🎨 @axcore/xicons
 ### Developer Icon Ecosystem
 Building a modern icon ecosystem designed around:
 ```bash
 npm install @karyax/icons
 ```
-<a href="https://www.npmjs.com/package/mero-nepali-utils">
-<img src="https://img.shields.io/npm/v/@karyax/icons?style=for-the-badge&logo=npm"/></a>
+<a href="https://www.npmjs.com/package/@axcore/xicons">
+<img src="https://img.shields.io/npm/v/@axcore/xicons/icons?style=for-the-badge&logo=npm"/></a>
 </td>
 </tr>
 </table>
-
----
-<div align="center">
-
-# 🧠 HOW I THINK ABOUT SYSTEMS
-
-<div align="center">
-
-```text
-                     ┌──────────────────┐
-                     │      PRODUCT     │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                     ┌──────────────────┐
-                     │    EXPERIENCE    │
-                     │ React / Next.js  │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                     ┌──────────────────┐
-                     │       API        │
-                     │ NestJS / REST    │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                ┌─────────────┴─────────────┐
-                │                           │
-                ▼                           ▼
-        ┌──────────────┐           ┌────────────────┐
-        │ AUTH / RBAC  │           │ BUSINESS LOGIC │
-        └──────┬───────┘           └───────┬────────┘
-               │                           │
-               └─────────────┬─────────────┘
-                             ▼
-                    ┌─────────────────┐
-                    │    DATABASE     │
-                    │   PostgreSQL    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   OBSERVABILITY │
-                    │ Sentry / OTel   │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   PRODUCTION 🚀 │
-                    └─────────────────┘
-```
-
 
 ---
 </div>
