@@ -1,48 +1,65 @@
-name: Profile assets
+name: Notebook activity
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    # The previous UTC day is complete. 06:22 in Nepal.
+    - cron: "37 0 * * *"
   workflow_dispatch:
   push:
     branches: [main]
     paths:
       - .github/workflows/profile-assets.yml
+      - .github/scripts/**
+      - design/requirements.txt
+      - design/fonts/**
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
 
 jobs:
   refresh:
+    if: github.repository == 'sakarkhadka10/sakarkhadka10'
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    permissions:
-      contents: write
-
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate contribution snake SVG
-        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: sakarkhadka10
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=7c3aed
+          ref: main
 
-      - name: Copy snake into assets
-        run: |
-          mkdir -p assets
-          cp dist/github-contribution-grid-snake.svg assets/github-contribution-grid-snake.svg
-
-      - name: Refresh GitHub-safe activity graph SVG
-        run: |
-          curl -sL "https://jeskei-readme-activity-graph.vercel.app/graph?username=sakarkhadka10&bg_color=0d1117&line=7C3AED&point=A78BFA&area=true&hide_border=true&hide_title=true&color=C9D1D9&text_color=8B949E" -o /tmp/activity.svg
-          python3 <<'PY'
-          import re
-          svg = open("/tmp/activity.svg", encoding="utf-8").read()
-          svg = re.sub(r"<foreignObject[\s\S]*?</foreignObject>", "", svg)
-          open("assets/activity-graph.svg", "w", encoding="utf-8").write(svg)
-          PY
-
-      - uses: EndBug/add-and-commit@v9
+      - uses: actions/setup-python@v5
         with:
-          message: "chore: refresh profile graph assets"
-          add: "assets/github-contribution-grid-snake.svg assets/activity-graph.svg"
-          default_author: github_actions
+          python-version: "3.12"
+
+      - name: Install SVG typography tools
+        run: python -m pip install -r design/requirements.txt
+
+      - name: Refresh the commit journal and contribution graphs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python .github/scripts/refresh-activity.py
+
+      - name: Draw the notebook’s koi
+        uses: yalongwastaken/git-koi@v1.0.2
+        with:
+          login: sakarkhadka10
+          body: asagi
+          output-dir: assets/koi
+
+      - name: Publish changed notebook activity
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add assets/koi/koi.gif assets/activity.svg assets/activity-month.svg assets/activity-mobile.svg assets/activity-month-mobile.svg assets/activity.json
+          if git diff --cached --quiet; then
+            echo "The notebook activity is unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh notebook activity and koi"
+          git pull --rebase origin main
+          git push origin HEAD:main

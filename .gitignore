@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+# The action also renders a still and a preview; only the GIF is published.
+assets/koi/koi.png
+assets/koi/preview.html
+
+/scripts
+/docs

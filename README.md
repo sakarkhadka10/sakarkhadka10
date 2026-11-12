@@ -1,288 +1,49 @@
+<a href="https://www.sakarkhadka.com.np"><picture><source media="(max-width: 600px)" srcset="assets/notebook-cover-mobile.svg" /><img src="assets/notebook-cover.svg" width="100%" alt="Sakar Khadka — a developer’s notebook. Full Stack Engineer, Nepal. Useful. Thoughtful. Shipped." /></picture></a>
 
-<div align="center">
+<p align="center">
+  <strong>I build digital things that look good, feel right, and actually work.</strong><br />
+  <a href="https://www.sakarkhadka.com.np">Portfolio ↗</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/sakarkhadka10">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:khadka.sakar10@gmail.com">Say hello</a> &nbsp; / &nbsp;
+  <a href="https://www.sakarkhadka.com.np/resume.pdf">Résumé</a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:111111,70:4c1d95,100:7c3aed&height=260&section=header&text=SAKAR%20KHADKA&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%20•%20%20PRODUCT%20BUILDER%20%20•%20%20OPEN%20SOURCE&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<picture><source media="(max-width: 600px)" srcset="assets/heading-projects-mobile.svg" /><img src="assets/heading-projects.svg" width="100%" alt="01 / Selected pages — built to be used" /></picture>
 
-<br>
+<p align="center">
+  <a href="https://www.munalonline.com"><picture><source media="(max-width: 600px)" srcset="assets/projects/munal-mobile.svg" /><img src="assets/projects/munal.svg" width="49%" alt="Munal Online — remittance, wallets and payments. Next.js, Expo, NestJS." /></picture></a>
+  <a href="https://xenonepal.com"><picture><source media="(max-width: 600px)" srcset="assets/projects/xeno-mobile.svg" /><img src="assets/projects/xeno.svg" width="49%" alt="XenoNepal — gaming, subscriptions and gift cards. Next.js, NestJS, PostgreSQL." /></picture></a><br />
+  <a href="https://www.merokarya.com"><picture><source media="(max-width: 600px)" srcset="assets/projects/merokarya-mobile.svg" /><img src="assets/projects/merokarya.svg" width="49%" alt="MeroKarya — everyday digital tools. Next.js, NestJS, Prisma." /></picture></a>
+  <a href="https://everest-massage.vercel.app"><picture><source media="(max-width: 600px)" srcset="assets/projects/everest-mobile.svg" /><img src="assets/projects/everest.svg" width="49%" alt="The Everest — a spa and wellness experience. Next.js, NestJS, Tailwind." /></picture></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=70&lines=I+turn+ideas+into+production+software.;Full-Stack+%7C+TypeScript+%7C+Next.js+%7C+NestJS;Building+SaaS%2C+Fintech+%26+Developer+Tools.;Designing+systems+that+scale+with+the+product.;Code.+Ship.+Learn.+Repeat.+%F0%9F%9A%80" />
+<p align="center"><a href="https://www.sakarkhadka.com.np/projects">Explore the full project notebook ↗</a></p>
 
-<br>
+<picture><source media="(max-width: 600px)" srcset="assets/heading-skills-mobile.svg" /><img src="assets/heading-skills.svg" width="100%" alt="02 / The workbench — tools of the trade" /></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/workbench-mobile.svg" /><img src="assets/workbench.svg" width="100%" alt="Core skills: Frontend — TypeScript, React, Next.js, Tailwind CSS. Backend — Node.js, NestJS. Data — PostgreSQL, Drizzle, Redis. Cloud and tools — Docker, Cloudflare, Git." /></picture>
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nestjs,nodejs,postgres,docker,git&perline=8" />
+<picture><source media="(max-width: 600px)" srcset="assets/heading-activity-mobile.svg" /><img src="assets/heading-activity.svg" width="100%" alt="03 / Code in motion — one day at a time" /></picture>
+<a href="https://github.com/sakarkhadka10?tab=overview"><picture><source media="(max-width: 600px)" srcset="assets/activity-mobile.svg" /><img src="assets/activity.svg" width="100%" alt="My commit journal: contributions, indexed public commits, longest streak, public repository stars, and a year of contribution activity" /></picture></a>
+<picture><source media="(max-width: 600px)" srcset="assets/activity-month-mobile.svg" /><img src="assets/activity-month.svg" width="100%" alt="A bar chart of my daily contributions over the last 30 days" /></picture>
 
-<br><br>
+<p align="center"><sub>Real public activity · trailing 365 days · refreshed daily · <a href="assets/activity.json">view the numbers</a></sub></p>
 
-<a href="https://www.sakarkhadka.com.np">
-<img src="https://img.shields.io/badge/%E2%86%92%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/sacarkhadka">
-<img src="https://img.shields.io/badge/%E2%86%92%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:khadka.sakar10@gmail.com">
-<img src="https://img.shields.io/badge/%E2%86%92%20CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<picture><source media="(max-width: 600px)" srcset="assets/heading-opensource-mobile.svg" /><img src="assets/heading-opensource.svg" width="100%" alt="04 / Open by default — small tools, big care" /></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/opensource-mobile.svg" /><img src="assets/opensource.svg" width="100%" alt="mero-nepali-utils — BS–AD dates and localization. @axcore/xicons — TypeScript icons for React and Next.js." /></picture>
 
-<br><br>
+<p align="center">
+  <a href="https://github.com/sakarkhadka10/mero-nepali-utils">mero-nepali-utils ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/sakarkhadka10/xicons">@axcore/xicons ↗</a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=sakarkhadka10&label=PROFILE%20VIEWS&style=for-the-badge&color=7c3aed"/>
+<picture><source media="(max-width: 600px)" srcset="assets/heading-play-mobile.svg" /><img src="assets/heading-play.svg" width="100%" alt="05 / A little happy chaos — keep being curious" /></picture>
+<a href="https://www.sakarkhadka.com.np/playground"><picture><source media="(max-width: 600px)" srcset="assets/kite-mobile.svg" /><img src="assets/kite.svg" width="100%" alt="An animated paper kite from my portfolio. Less overthinking. More making. Visit the playground." /></picture></a>
 
-</div>
+<p align="center">
+  <a href="https://github.com/yalongwastaken/git-koi"><img src="assets/koi/koi.gif" width="256" height="256" alt="My animated Asagi koi, grown from public GitHub activity" /></a><br />
+  <sub>The notebook’s resident koi. A little more code, a little more life. <a href="https://github.com/yalongwastaken/git-koi">git-koi ↗</a></sub>
+</p>
 
----
+<a href="mailto:khadka.sakar10@gmail.com"><picture><source media="(max-width: 600px)" srcset="assets/notebook-footer-mobile.svg" /><img src="assets/notebook-footer.svg" width="100%" alt="Have something good in mind? Let’s make it real. Say hello." /></picture></a>
 
-<div align="center">
-
-# ⚡ I BUILD SOFTWARE, NOT JUST CODE.
-
-### Full-Stack Developer · Product Engineer · Open-Source Builder
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## 👨‍💻 About Me
-
-I'm **Sakar Khadka**, a full-stack developer from **Nepal 🇳🇵** focused on building products from the ground up.
-
-I enjoy working across the entire stack — from pixel-level interfaces to database architecture, authentication, APIs, infrastructure and deployment.
-
-My current interests revolve around:
-
-- 🧠 System Design
-- 💳 Fintech & Financial Systems
-- 🚀 SaaS Products
-- 🧰 Developer Tools
-- 🌐 Full-Stack Architecture
-- 📦 Open Source
-- 🎨 Product & UX Engineering
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl5cnFwcXg0bTRzcWN5N2MydHl4OHNobmJuZmZzaHFnbDdjMmQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100%" />
-</td>
-</tr>
-</table>
-<br><br>
-
-# 🚀 WHAT I'M BUILDING
-
-### 💸 Munal Online
-**Digital finance · remittance · wallets · digital services**
-Major product work in digital financial services and remittance — the hard parts are systems, not just screens.
-```text
-User → Authentication → Wallet → Transaction → Ledger
-     → Payment Provider → Webhook → Verification → Reconciliation
-```
-Authentication · wallet architecture · transactions · auditability · webhooks · idempotency · reporting · database integrity
-
-<img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,nestjs,postgres,ts" />
-
-<br/>
-
-### 🧰 Merokarya
-**SaaS · productivity · digital tools**
-Product ecosystem for useful web tools and productivity software.
-`Next.js` · `NestJS` · `PostgreSQL` · `TypeScript`
-
-<a href="https://merokarya.com"><img src="https://img.shields.io/badge/Explore%20Merokarya-7C3AED?style=for-the-badge"/></a>
-
-
-### 🌐 Xenonepal
-**Digital products · gaming · subscriptions**
-Nepal-focused digital marketplace for digital products and services.
-
-<a href="https://xenonepal.com"><img src="https://img.shields.io/badge/Explore%20Merokarya-7C3AED?style=for-the-badge"/></a>
-
----
-
-# 📦 I BUILD FOR DEVELOPERS TOO
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:312e81&height=120&text=OPEN%20SOURCE&fontSize=42&fontColor=ffffff&fontAlignY=55"/>
-</div>
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🇳🇵 mero-nepali-utils
-### Nepali Date & Utility Library
-A TypeScript utility library built around the **Bikram Sambat calendar** and Nepali development use cases.
-```bash
-npm install mero-nepali-utils
-```
-<a href="https://www.npmjs.com/package/mero-nepali-utils">
-<img src="https://img.shields.io/npm/v/mero-nepali-utils?style=for-the-badge&logo=npm"/></a>
-</td>
-<td width="50%" valign="top">
-
-## 🎨 @axcore/xicons
-### Developer Icon Ecosystem
-Building a modern icon ecosystem designed around:
-```bash
-npm install @axcore/xicons-react
-```
-<a href="https://www.npmjs.com/package/@axcore/xicons">
-<img src="https://img.shields.io/npm/v/@axcore/xicons?style=for-the-badge&logo=npm"/></a>
-</td>
-</tr>
-</table>
-
----
-</div>
-</div>
-
-# 🔐 ENGINEERING PRINCIPLES
-
-<div align="center">
-
-| 🧠  | Principle              | What it means                                                           |
-| --- | ---------------------- | ----------------------------------------------------------------------- |
-| 🔒  | **Security First**     | Authentication, authorization & validation are part of the architecture |
-| 🧱  | **Strong Foundations** | Good schemas beat clever queries                                        |
-| 🧩  | **Modularity**         | Systems should evolve without becoming spaghetti                        |
-| 📈  | **Scalability**        | Design for the next version, not imaginary millions                     |
-| 👀  | **Observability**      | If something breaks, I want to know why                                 |
-| 🧪  | **Testing**            | Confidence before deployment                                            |
-| 🎯  | **DX Matters**         | Developers are users too                                                |
-| 🎨  | **UX Matters**         | A technically perfect product can still be terrible                     |
-
-</div>
-
----
-
-# 🛠️ THE STACK
-<div align="center">
-
-### CORE
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs" />
-
-### DATA
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
-
-### MOBILE
-<img src="https://skillicons.dev/icons?i=react" />
-
-**React Native · Expo**
-
-### CLOUD & DEVOPS
-
-<img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,githubactions,linux" />
-
-### TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</div>
-
----
-
-# 🏆 EXPERIENCE
-
-<div align="center">
-
-### FULL-STACK DEVELOPER
-**Press 1 Technologies**
-`React` · `Node.js` · `PostgreSQL` · `Tauri`
-
-
-### FULL-STACK DEVELOPER INTERN
-**Mindrisers Consortium**
-`React` · `Node.js` · `APIs` · `Responsive UI`
-</div>
-
-
-# 📊 GITHUB — THE RECEIPTS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sakarkhadka10&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=sakarkhadka10&hide_border=true&theme=transparent" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakarkhadka10&layout=donut-vertical&langs_count=8&hide_border=true&theme=transparent" width="32%"/>
-
-</div>
-
----
-
-# ⚡ ACTIVITY
-
-<div align="center">
-
-<a href="https://github.com/sakarkhadka10">
-  <img src="./assets/activity-graph.svg" alt="GitHub commit activity — last 31 days" width="100%"/>
-</a>
-
-</div>
-
----
-
-# 🎯 CURRENTLY
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  🔨 BUILDING     →     Real products                 │
-│                                                      │
-│  🧠 LEARNING     →     System design                 │
-│                                                      │
-│  📦 SHIPPING     →     Open source                   │
-│                                                      │
-│  💳 EXPLORING    →     Fintech                       │
-│                                                      │
-│  🎨 IMPROVING    →     Product & UX                  │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-</div>
-
----
-# 🌎 LET'S CONNECT
-
-<div align="center">
-
-### Have a product idea? Building something interesting?
-### Let's talk.
-<a href="https://www.sakarkhadka.com.np">
-<img src="https://img.shields.io/badge/🌐%20WEBSITE-7C3AED?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sacarkhadka">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="mailto:khadka.sakar10@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL-EA4335?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/sakarkhadka10">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.npmjs.com/~sakarkhadka">
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=sakarkhadka10&label=YOU%20ARE%20VISITOR%20%23&style=flat-square&color=7c3aed"/>
-</div>
-
----
-<div align="center">
-
-## ⚡ BUILD. SHIP. BREAK. LEARN. REPEAT.
-### — Sakar Khadka 🇳🇵
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:050505&height=150&section=footer"/>
-</div>
+<p align="center"><a href="mailto:khadka.sakar10@gmail.com">khadka.sakar10@gmail.com</a> &nbsp; · &nbsp; <a href="https://www.sakarkhadka.com.np">sakarkhadka.com.np</a></p>
