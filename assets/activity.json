@@ -1,12 +1,8 @@
 {
   "login": "sakarkhadka10",
-  "from": "2025-11-26",
-  "through": "2026-11-25",
+  "from": "2025-11-27",
+  "through": "2026-11-26",
   "days": [
-    {
-      "date": "2025-11-26",
-      "count": 5
-    },
     {
       "date": "2025-11-27",
       "count": 2
@@ -1462,6 +1458,10 @@
     {
       "date": "2026-11-25",
       "count": 3
+    },
+    {
+      "date": "2026-11-26",
+      "count": 9
     }
   ],
   "public_indexed_commits": 113,
